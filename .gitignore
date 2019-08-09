@@ -1,0 +1,19 @@
+# Folders
+.vscode/
+__pycache__/
+
+
+# File extensions
+.DS_Store
+*.py[cod]
+*$py.class
+*.log
+.remote-sync.json
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
