@@ -7,7 +7,7 @@ Frozen sections provide a basis for rapid intraoperative diagnosis that can guid
 Please consider cite the paper if this repository facilitates your research.
 ```
 @article{li2020rule,
-  title={Rule-based Automatic Diagnosis of Thyroid Nodules from Intraoperative Frozen Sections using Deep Learning},
+  title={Rule-based automatic diagnosis of thyroid nodules from intraoperative frozen sections using deep learning},
   author={Li, Yuan and Chen, Pingjun and Li, Zhiyuan and Su, Hai and Yang, Lin and Zhong, Dingrong},
   journal={Artificial Intelligence in Medicine},
   volume={108},
